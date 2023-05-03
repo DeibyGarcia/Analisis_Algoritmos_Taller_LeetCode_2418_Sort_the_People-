@@ -26,7 +26,7 @@ https://github.com/DeibyGarcia/Analisis_Algoritmos_Taller_LeetCode_2418_Sort_the
 
 Para esta solución se implementó el lenguaje java en su versión 1.8 y se desarrolló en el IDE NetBeans version 17, la solución planteada abarca los diferentes casos de pruebas planteados y demás casos propuestos en la aplicación completa.
 
-# Desarrollo de casos de prueba  :space_invader:
+# Desarrollo de casos de prueba :space_invader:
 
 Estos se generan en la clase “CaseGenerator” los cuales son necesarios para la aplicación. Estas clases se encuentran en el proyecto con el nombre de "LeetCode2418" el cual es la aplicación completa.
       
