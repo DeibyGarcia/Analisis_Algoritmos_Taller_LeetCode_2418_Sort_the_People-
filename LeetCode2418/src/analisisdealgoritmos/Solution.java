@@ -46,7 +46,7 @@ class Solution {
         File archivo = null;
         FileReader fr = null;
         BufferedReader br = null;
-        String[] retorno = new String[100];
+        String[] retorno = new String[n];
         try {
             archivo = new File("nombre.txt");
             fr = new FileReader(archivo);
