@@ -19,7 +19,7 @@ Return names sorted in descending order by the people's heights.
 
 La solución propuesta se encuentra en la carpeta de este repositorio llamada “MetodoLeetCode2418”    
 
-      https://github.com/DeibyGarcia/Analisis_Algoritmos_Taller_LeetCode_2418_Sort_the_People-/tree/main/MetodoLeetCode2418 
+https://github.com/DeibyGarcia/Analisis_Algoritmos_Taller_LeetCode_2418_Sort_the_People-/tree/main/MetodoLeetCode2418 
 
 <img src="https://user-images.githubusercontent.com/116528826/199171527-e89de21e-639f-418f-878b-64135a8d046c.png" width="200" height="200" />
 
@@ -30,13 +30,13 @@ Para esta solución se implementó el lenguaje java en su versión 1.8 y se desa
 
 Estos se generan en la clase “CaseGenerator” de esta forma generando los casos de prueba necesarios para la aplicación. Estas clases se encuentran en el proyecto con el nombre de "LeetCode2418" el cual es la aplicación completa 
       
-      https://github.com/DeibyGarcia/Analisis_Algoritmos_Taller_LeetCode_2418_Sort_the_People-/tree/main/LeetCode2418
+https://github.com/DeibyGarcia/Analisis_Algoritmos_Taller_LeetCode_2418_Sort_the_People-/tree/main/LeetCode2418
 
 # Desarrollo de aplicación completa :space_invader:
 Esta aplicación que se encuentra en el proyecto "LeetCode2418" es la unión de el algoritmo implementando en Leetcode, la aplicación generadora de casos de prueba y otros métodos más que permiten conformar la aplicación completa con la capacidad de generar casos de prueba y solución a los casos de prueba.
       
-      https://github.com/DeibyGarcia/Analisis_Algoritmos_Taller_LeetCode_2418_Sort_the_People-/tree/main/LeetCode2418
+https://github.com/DeibyGarcia/Analisis_Algoritmos_Taller_LeetCode_2418_Sort_the_People-/tree/main/LeetCode2418
 
   :computer:  Para más informacón sobre funcionamiento de la aplicación    
    
-          https://docs.google.com/document/d/15F2KxizSHA03ixAzZdlPIGD6YUY2KAV0RMUcIbHfme0/edit?usp=sharing
+https://docs.google.com/document/d/15F2KxizSHA03ixAzZdlPIGD6YUY2KAV0RMUcIbHfme0/edit?usp=sharing
