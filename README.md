@@ -39,4 +39,4 @@ Esta aplicación que se encuentra en el proyecto "LeetCode2418" es la unión de 
 
   :computer:  Para más informacón sobre funcionamiento de la aplicación    
    
-          https://docs.google.com/document/d/1IzzUTiW1uiERi6CtDTWVd5tJOskqKx1AluhQkESxNm0/edit?usp=sharing
+          https://docs.google.com/document/d/15F2KxizSHA03ixAzZdlPIGD6YUY2KAV0RMUcIbHfme0/edit?usp=sharing
