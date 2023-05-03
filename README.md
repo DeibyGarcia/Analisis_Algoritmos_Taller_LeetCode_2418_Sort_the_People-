@@ -28,7 +28,7 @@ Para esta solución se implementó el lenguaje java en su versión 1.8 y se desa
 
 # Desarrollo de casos de prueba  :space_invader:
 
-Estos se generan en la clase “CaseGenerator” de esta forma generando los casos de prueba necesarios para la aplicación. Estas clases se encuentran en el proyecto con el nombre de "LeetCode2418" el cual es la aplicación completa 
+Estos se generan en la clase “CaseGenerator” los cuales son necesarios para la aplicación. Estas clases se encuentran en el proyecto con el nombre de "LeetCode2418" el cual es la aplicación completa 
       
 https://github.com/DeibyGarcia/Analisis_Algoritmos_Taller_LeetCode_2418_Sort_the_People-/tree/main/LeetCode2418
 
