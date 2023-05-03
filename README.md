@@ -19,7 +19,7 @@ Return names sorted in descending order by the people's heights.
 
 La solución propuesta se encuentra en la carpeta de este repositorio llamada “MetodoLeetCode2418”    
 
-      https://github.com/Migue2121/Analisis_Algoritmos_Taller_LeetCode_2089_FindTargetIndicesAfterSortingArray/blob/main/MetodoLeetCode2089/MetodoLeetCode2089.java 
+      https://github.com/DeibyGarcia/Analisis_Algoritmos_Taller_LeetCode_2418_Sort_the_People-/tree/main/MetodoLeetCode2418 
 
 <img src="https://user-images.githubusercontent.com/116528826/199171527-e89de21e-639f-418f-878b-64135a8d046c.png" width="200" height="200" />
 
