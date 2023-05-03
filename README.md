@@ -13,7 +13,7 @@ For each index i, names[i] and heights[i] denote the name and height of the ith 
 Return names sorted in descending order by the people's heights.
 
 
-![LeetCode_Sharing](https://raw.githubusercontent.com/DeibyGarcia/Analisis_Algoritmos_Taller_LeetCode_2418_Sort_the_People-/blob/main/LeetCode2418/casos.png)
+![](https://github.com/DeibyGarcia/Analisis_Algoritmos_Taller_LeetCode_2418_Sort_the_People-/blob/main/LeetCode2418/casos.png)
 
 :computer: Solución propuesta
 
